@@ -11,3 +11,9 @@ In this project, our team experimented Physics-Informed Neural Network approach 
 
 ## Implementation
 The implementation code is presented in both Tensorflow and DeepXDE (a library for applying PINNs at ease) in `2D_deepxde.ipynb` and `2D_tensorflow.ipynb`.
+
+## Official thesis
+
+[Thesis PINNS in Catalytic Reactor](Thesis_PINNs_in_Catalytic_Reactor.pdf)
+
+The thesis is submitted and graded to Institut National des sciences appliquées de Toulouse (INSA Toulouse) for final project. Special thanks to my collaborators Mai Dinh Nam and Nguyen Phuc Luan, with the advise of Mrs Marie and Ms Liantsoa.
